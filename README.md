@@ -1,3 +1,3 @@
 # hello-world
-# NAME: WENJIE WANG
+# My name is WENJIE WANG
 # ID: wenjiew2
